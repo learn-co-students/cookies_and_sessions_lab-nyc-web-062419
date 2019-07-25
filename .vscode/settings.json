@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "app/assets": true,
+    "app/controllers/concerns": true,
+    "spec": true,
+    "vendor": true,
+    "public": true,
+    "log": true,
+    "lib": true,
+    "config/puma.rb": true,
+    "app/mailers": true,
+    "app/models/.keep": true,
+    "app/views/layouts": true,
+    "config/environments": true,
+    "config/initializers": true,
+    "config/locales": true
+  }
+}
